@@ -26,6 +26,8 @@
 
 # Résulta dans SQLServer
 
-![sqlserver](./img/sqlserver.PNG)
 ![table vide](./img/table_vide.PNG)
+
+# Après exécution
+
 ![table pleine](./img/table_pleine.PNG)
